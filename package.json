@@ -1,0 +1,27 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "react-redux ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/premjkumar/react-redux.git"
+  },
+  "keywords": [
+    "react-redux"
+  ],
+  "author": "prem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/premjkumar/react-redux/issues"
+  },
+  "homepage": "https://github.com/premjkumar/react-redux#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-redux": "^7.2.0",
+    "redux": "^4.0.5"
+  }
+}
